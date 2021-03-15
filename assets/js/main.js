@@ -10,7 +10,7 @@ var numeri = [];
 var secondiAllaFine = $("#seconds-to-end");
 var output = $('.numbers');
 var countdown = $('.countdown');
-var count = 15;
+var count = 30;
 var j = 1;
 //genero e inserisco numeri in array
 	for (var i = 0; i < 5; i++) {
