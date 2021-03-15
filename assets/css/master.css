@@ -2,4 +2,13 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: "Arial Black";
+}
+.numbers {
+	font-size: 30px;
+	color: red;
+}
+.countdown {
+	font-size: 20px;
+	color: #b01a44;
 }
